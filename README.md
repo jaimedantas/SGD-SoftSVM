@@ -9,7 +9,7 @@ The stochastic gradient descent is used for classification in machine learning i
 - Regularization analysis
 
 ### Dataset
-An 4-dimensional dataset with 1372 data points is used for classification. This dataset is the banknote authentication dataset from the [UCI repository](https://archive.ics.uci.edu/ml/datasets/banknote+authentication)
+An 4-dimensional dataset with 1372 data points is used for classification. This dataset is the banknote authentication dataset from the [UCI repository](https://archive.ics.uci.edu/ml/datasets/banknote+authentication).
 <div>
 <img src="/charts/face.png" width="400px"</img> 
 </div>
