@@ -15,4 +15,4 @@ An 4-dimensional dataset with 1372 data points is used for classification. This 
 </div>
 
 ### Documentation
-This implementation is part of an article published on  [Towards Data Science](https://medium.com/@jaimedantas). I encourage you to go over this reading. 
+This implementation is part of an article published on  [Towards Data Science](https://towardsdatascience.com/stochastic-gradient-descent-implementation-for-softsvm-de036d1001b8?source=your_stories_page-------------------------------------). I encourage you to go over this reading. 
